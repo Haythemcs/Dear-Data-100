@@ -34,5 +34,10 @@ void draw() {
   // Description
   fill(220);
   textSize(14);
-  text("Exploring how music relates to my mood", 130, 300);
+  text("Exploring how music relates to my mood", 200, 300);
+  
+  //mood ratings
+   text("Mood: 8/10", 125, 240);
+  text("Energy: 9/10", 270, 240);
+  text("Calm: 8/10", 425, 240);
 }
